@@ -1,0 +1,12 @@
+Hands down, my favorite editor is notepad. The first reason I love 
+notepad is because it's available on every platform by default. 
+Although some platforms might use different names for it, in the end 
+every platform has a default application that is primarily for .txt 
+files that functions the same way. It's accessibility means I can always
+open and edit files with it.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Secondly, I like that I can save the file I
+edited in just about any format as long as I know the right extension. 
+For example I can type code in python, java, c++, etc. using notepad and
+save it as the appropriate file type (provided I save it appropriately).
+Lastly, I enjoy how easy it is to manage spacing on notepad. While 
+notepad does not automatically space input as you type, it follows the 
+standards for tab, space, etc. as any IDE. 
